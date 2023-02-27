@@ -1,1 +1,1 @@
-TRUNCATE TABLE song;
+TRUNCATE TABLE song ;
